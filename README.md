@@ -1,4 +1,7 @@
 # Helmet-Detection
+Real time object detection is implemented using YOLOv4
+- Data is collected using [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en) Google Chrome extenstion
+- Images are annotated using [labelImg](https://github.com/tzutalin/labelImg)
 
 ## Demo
 ### Detection on an image
